@@ -1,0 +1,14 @@
+/* Main app CSS */
+iframe {
+	border: 0px;
+	width: 100%;
+	height: 550px;
+}
+
+.tgskickoff-header-logo {
+	height: 45px;
+}
+
+.tgskickoff-nav li {
+	line-height: 38px;
+}
